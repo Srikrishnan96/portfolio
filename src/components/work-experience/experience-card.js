@@ -5,7 +5,7 @@ const useExperienceCardStyles = makeStyles({
     root: {
       width: '50%',
       minWidth: 345,
-      marginBottom: 20,
+      marginBottom: 24,
     },
   });
 
